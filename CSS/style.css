@@ -194,6 +194,55 @@ footer nav a:hover {
     height: 400px;
     width: 100%;
 }
+.form {
+    width: 50%;
+    margin: 50px auto;
+}
+.feedback-input {
+    color: #000;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    background-color: #fff;
+    padding: 13px;
+    margin-bottom: 10px;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 0px solid transparent;
+    border-bottom: 1px solid #000;
+}
+#comment-message {
+    width: 100%;
+    height: 150px;
+    resize: vertical;
+}
+.button-submit {
+    float: flex;
+    width: 100%;
+    border: 0px solid transparent;
+    cursor: pointer;
+    background-color: #000;
+    color: white;
+    font-size: 18px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    transition: all 0.3s;
+    margin-top: -4px;
+    font-weight: 300;
+}
+.button-submit:hover {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+.ease {
+    width: 0;
+    height: 74px;
+    background-color: #fbfbfb;
+    transition: .3s ease;
+}
 @media screen and (max-width: 768px) {
     .topnav a:not(:first-child) {
         display: none;
