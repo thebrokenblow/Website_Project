@@ -190,6 +190,10 @@ footer nav a:hover {
     border-radius: 3px;
     padding: 0 .5rem;
 } 
+#map {
+    height: 400px;
+    width: 100%;
+}
 @media screen and (max-width: 768px) {
     .topnav a:not(:first-child) {
         display: none;
