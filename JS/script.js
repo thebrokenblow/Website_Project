@@ -1,5 +1,5 @@
-window.onload = function () {
-    document.getElementById("menu").onclick = function(){
+window.onload = function() {
+    document.getElementById("menu").onclick = function() {
         var x = document.getElementById('myTopnav');
     
         if (x.className === "topnav") {
