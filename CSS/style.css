@@ -96,7 +96,7 @@ footer nav a:hover {
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 .photo-item {
     width: 25%;
@@ -104,7 +104,7 @@ footer nav a:hover {
 .photo-item img {
     box-sizing: border-box;
     max-width: 100%;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 .photo-item img:hover {
     opacity: 1;
