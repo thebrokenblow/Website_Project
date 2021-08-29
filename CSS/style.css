@@ -96,7 +96,7 @@ footer nav a:hover {
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 60px;
+    margin-bottom: 65px;
 }
 .photo-item {
     width: 25%;
@@ -243,6 +243,34 @@ footer nav a:hover {
     background-color: #fbfbfb;
     transition: .3s ease;
 }
+.about-container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+.about-container img{
+    max-width: 100%;
+}
+.about-container p {
+    margin-top: 50px;
+}
+.about-container h1 {
+    margin-top: 40px;
+}
+.services {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+.services img {
+    max-width: 100%;
+}
+.services-container {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 50px 100px;
+}
 @media screen and (max-width: 768px) {
     .topnav a:not(:first-child) {
         display: none;
@@ -302,5 +330,8 @@ footer nav a:hover {
     }
     .blog-container {
         width: 20rem;
+    }
+    .services-container {
+        grid-template-columns: auto;
     }
 }
