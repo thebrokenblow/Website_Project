@@ -1,4 +1,4 @@
-<img alt="Mirralise" src="IMG/main.png" />
+<img alt="Mirralise" src="https://github.com/thebrokenblow/Website_Project_Mirralise/blob/master/IMG/main.PNG?raw=true"/>
 
 <h1 align="center">
   Mirralise
@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-    <img alt="Mirralise" src="IMG/main1.png" />
+    <img alt="Mirralise" src="https://github.com/thebrokenblow/Website_Project_Mirralise/blob/master/IMG/main1.PNG?raw=true" />
 </p>
 
 ---
