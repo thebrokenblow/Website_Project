@@ -25,10 +25,10 @@
 
 1.  **Create a My Company site.**
 
-    Use `git` and the My Company to create a new project
+    Use `git` and the Mirralise to create a new project
 
     ```sh
-    # create a new MyCompany site using this starter
+    # create a new Mirralise site using this starter
     git clone thebrokenblow/Website_Project_Mirralise
     ```
 
